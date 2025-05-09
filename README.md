@@ -40,5 +40,5 @@ This project aims to predict the thermal stability (melting temperature, Tm) of 
 ### Author
 
 **Anupam Mukherjee**  
-📧 anupammukherjee2003@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/anupammukherjee03)
+anupammukherjee2003@gmail.com  
+[LinkedIn](https://linkedin.com/in/anupammukherjee03)
